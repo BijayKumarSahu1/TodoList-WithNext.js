@@ -1,3 +1,20 @@
+Key Features:
+
+Add Tasks: Users can quickly add new tasks to their list by entering task details and clicking the "Add" button. The application dynamically updates to display the newly added task.
+
+Delete Tasks: Deleting tasks is a breeze. Each task comes with a delete button, allowing users to remove completed or unnecessary tasks effortlessly.
+
+Technology Stack:
+
+Next.js: The project is built on Next.js, a React framework that provides server-side rendering and other performance optimizations out of the box.
+
+React: Task components are created using React, facilitating the management of state and ensuring a smooth, reactive user interface.
+
+Tailwind CSS: Styling is implemented using Tailwind CSS, ensuring a clean and visually appealing design.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
